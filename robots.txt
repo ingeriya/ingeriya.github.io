@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingeriya.github.io/sitemap
+Sitemap: https://ingeriya.github.io/app/sitemap
+Sitemap: https://ingeriya.github.io/assets/sitemap
+Sitemap: https://ingeriya.github.io/css/sitemap
+Sitemap: https://ingeriya.github.io/includes/sitemap
+Sitemap: https://ingeriya.github.io/item/sitemap
+Sitemap: https://ingeriya.github.io/src/sitemap
